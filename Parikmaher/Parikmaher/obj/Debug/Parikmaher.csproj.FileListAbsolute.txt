@@ -1,0 +1,18 @@
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe.config
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\bin\Debug\Parikmaher.pdb
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\obj\Debug\Parikmaher.csprojResolveAssemblyReference.cache
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\obj\Debug\Parikmaher.exe
+D:\моё и точка (хомяче)\HPENb\Parikmaher\Parikmaher\obj\Debug\Parikmaher.pdb
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe.config
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\obj\Debug\Parikmaher.exe
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\obj\Debug\Parikmaher.pdb
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\bin\Debug\Parikmaher.pdb
+W:\Users\user.HOG17-WIN\Desktop\OC\Parikmaher\Parikmaher\obj\Debug\Parikmaher.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe.config
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\obj\Debug\Parikmaher.exe
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\obj\Debug\Parikmaher.pdb
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\bin\Debug\Parikmaher.exe
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\bin\Debug\Parikmaher.pdb
+C:\Users\1\Desktop\OC1\Parikmaher\Parikmaher\obj\Debug\Parikmaher.csprojResolveAssemblyReference.cache
